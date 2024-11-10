@@ -3,36 +3,40 @@
 
 int main()
 {
-    int num,i,j,count;
+    int num,i,j;
     scanf("%d",&num);
-    int arr[num],freq[num];
-    for (i=0;i<num;i++)
+    int arr[num],seen[num];
+    for(i=0;i<num;i++)
     {
         scanf("%d",&arr[i]);
-        freq[i]=-1;
     }
     for(i=0;i<num;i++)
     {
-        count=1;
         for(j=i+1;j<num;j++)
         {
             if(arr[i]==arr[j])
             {
-                count++;2
-                freq[j]=0;
+                seen[i]=1;
+                seen[j]=1;
             }
         }
-        if(freq[i]!=0)
+    }
+
+    for(i=0;i<num;i++)
+    {
+        if(seen[i]==1)
         {
-            freq[i]=count;
+           arr[i]*=arr[i];
         }
+
     }
     for(i=0;i<num;i++)
     {
-        if(freq[i]!=0)
-        {
-            printf("the frequency of %d is %d\n",arr[i],freq[i]);
-        }
+        printf("%d\n",arr[i]);
     }
+
+
+
+
     return 0;
 }

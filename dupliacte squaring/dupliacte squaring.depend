@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1731221886 source:c:\c problem sheets\dupliacte squaring\main.c
+	<stdio.h>
+	<stdlib.h>
+
