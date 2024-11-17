@@ -3,7 +3,7 @@
 
 int main()
 {
-    int num,i,first,last,fdigit=0,ldigit=0,sum=0,total=0;
+    int num,i,sum=0;
     scanf("%d",&num);
     while(num<4)
     {
