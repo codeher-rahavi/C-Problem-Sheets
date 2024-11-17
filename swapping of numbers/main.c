@@ -22,7 +22,7 @@ int main()
     arr[num-2]=temp2;
     for(i=0;i<num;i++)
     {
-        printf("%d",arr[i]);
+        printf("%d ",arr[i]);
     }
     return 0;
 }
