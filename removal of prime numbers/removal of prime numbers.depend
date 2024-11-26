@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732595458 source:c:\c problem sheets\removal of prime numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
