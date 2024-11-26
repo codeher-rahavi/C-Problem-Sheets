@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732602100 source:c:\c problem sheets\divisible by a divisor\main.c
+	<stdio.h>
+	<stdlib.h>
+
