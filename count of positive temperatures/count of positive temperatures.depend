@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732600960 source:c:\c problem sheets\count of positive temperatures\main.c
+	<stdio.h>
+	<stdlib.h>
+
