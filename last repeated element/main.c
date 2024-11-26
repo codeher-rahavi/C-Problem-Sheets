@@ -3,7 +3,7 @@
 
 int main()
 {
-    int num,i,j,temp=0;
+    int num,i,j,temp=0,count=0;
     scanf("%d",&num);
     int arr[num];
     for(i=0;i<num;i++)
@@ -18,11 +18,20 @@ int main()
             if(arr[i]==arr[j])
             {
                 temp=arr[i];
+                count++;
                 break;
             }
         }
         x++;
     }
-    printf("the last repeated element is : %d ",temp);
+    if(temp!=0)
+    {
+      printf("the last repeated element is : %d ",temp);
+    }
+    else
+    {
+        printf("no repeated elements found");
+    }
+
     return 0;
 }
