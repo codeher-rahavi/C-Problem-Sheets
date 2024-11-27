@@ -18,7 +18,7 @@ int main()
         {
             if(arr[i]==arr[j])
             {
-                count++;2
+                count++;
                 freq[j]=0;
             }
         }

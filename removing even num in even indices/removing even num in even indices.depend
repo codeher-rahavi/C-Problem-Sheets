@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732699169 source:c:\c problem sheets\removing even num in even indices\main.c
+	<stdio.h>
+	<stdlib.h>
+
