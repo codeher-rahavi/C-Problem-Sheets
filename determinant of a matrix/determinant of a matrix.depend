@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732685964 source:c:\c problem sheets\determinant of a matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+
