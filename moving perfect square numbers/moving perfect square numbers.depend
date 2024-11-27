@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732689875 source:c:\c problem sheets\moving perfect square numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
