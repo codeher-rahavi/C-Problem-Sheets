@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732697518 source:c:\c problem sheets\sparese matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+
