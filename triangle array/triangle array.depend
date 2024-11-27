@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732682611 source:c:\c problem sheets\triangle array\main.c
+	<stdio.h>
+	<stdlib.h>
+
