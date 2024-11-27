@@ -6,6 +6,7 @@ int main()
     int arr[MAX],i;
     for(i=0;i<MAX;i++)
     {
+
         scanf("%d",&arr[i]);
     }
     printf("the positive numbers are:\n");

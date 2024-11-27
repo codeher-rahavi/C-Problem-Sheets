@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732696817 source:c:\c problem sheets\odd indices printing\main.c
+	<stdio.h>
+	<stdlib.h>
+
