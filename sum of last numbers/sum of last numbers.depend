@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732678525 source:c:\c problem sheets\sum of last numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
