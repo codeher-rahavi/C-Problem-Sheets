@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732689289 source:c:\c problem sheets\inserting an element in an array\main.c
+	<stdio.h>
+	<stdlib.h>
+
