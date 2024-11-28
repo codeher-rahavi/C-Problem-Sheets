@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732767120 source:c:\c problem sheets\searching an element in an array\main.c
+	<stdio.h>
+	<stdlib.h>
+

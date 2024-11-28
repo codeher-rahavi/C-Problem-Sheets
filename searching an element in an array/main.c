@@ -16,7 +16,7 @@ int main()
     {
         if(arr[i]==element)
         {
-            printf("element found at index:%d",i);
+            printf("element found at index:%d",i+1);
         }
     }
     return 0;
