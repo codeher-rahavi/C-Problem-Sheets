@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1733370881 source:c:\c problem sheets\identifying and removing prime numbers in an array\main.c
+	<stdio.h>
+	<stdlib.h>
+

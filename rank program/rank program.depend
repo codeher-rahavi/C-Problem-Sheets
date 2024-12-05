@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732782371 source:c:\c problem sheets\rank program\main.c
+	<stdio.h>
+	<stdlib.h>
+
