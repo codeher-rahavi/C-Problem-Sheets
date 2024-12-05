@@ -11,7 +11,7 @@ int main()
         scanf("%d",&arr[i]);
     }
     int max_current=arr[0];
-    int max_global=arr[0];
+  //  int max_global=arr[0];
     for(i=1;i<num;i++)
     {
         if(arr[i]>max_current+arr[i])
@@ -23,10 +23,7 @@ int main()
             max_current+=arr[i];
         }
     }
-    if(max_current>max_global)
-    {
-        max_global=max_current;
-    }
-    printf("the largest sum of contiguous subarray is %d ",max_global);
+
+    printf("the largest sum of contiguous subarray is %d ",max_current);
     return 0;
 }
