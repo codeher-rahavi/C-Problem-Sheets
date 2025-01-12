@@ -44,7 +44,6 @@ int main()
         printf("%d ",arr[i]);
     }
     printf("\n");
-    int c=0,d=0;
     for(i=0;i<num;i++)
     {
         if(arr[i]==insertion)

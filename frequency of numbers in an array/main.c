@@ -34,10 +34,9 @@ int main()
         if(is_prime(arr[i]))
         {
             seen[arr[i]]++;
-          //  printf("%d ",arr[i]);
         }
     }
-    for(i=0;i<num;i++)
+    for(i=0;i<1000;i++)
     {
         if(seen[i]>0)
         {

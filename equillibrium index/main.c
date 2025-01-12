@@ -28,7 +28,7 @@ int main()
     {
         printf("%d ",right[i]);
     }
-    /*printf("\n");
+    printf("\n");
      for(i=0;i<=num;i++)
     {
         for(j=i-1;j<i;j++)
@@ -40,10 +40,10 @@ int main()
     }
     for(i=0;i<=num;i++)
     {
-        if(left_sum[i]==right_sum[i])
+        if(left_sum==right_sum)
         {
             printf("%d ",arr[i]);
         }
-    }*/
+    }
     return 0;
 }

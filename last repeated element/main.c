@@ -18,8 +18,8 @@ int main()
             if(arr[i]==arr[j])
             {
                 temp=arr[i];
-                count++;
                 break;
+                count++;
             }
         }
         x++;

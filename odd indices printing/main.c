@@ -19,6 +19,7 @@ int main()
                 continue;
             }
 
+
         }
         printf("%d ",arr[i]);
 

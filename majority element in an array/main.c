@@ -11,7 +11,7 @@ int main()
         scanf("%d",&arr[i]);
         seen[i]=-1;
     }
-    int array_size= num/2;
+    int array_size= num/2;//the sizeof int is 2.
 
 
     for(i=0;i<num;i++)
