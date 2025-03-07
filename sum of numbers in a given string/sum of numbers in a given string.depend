@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1741366740 source:c:\c problem sheets\sum of numbers in a given string\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
