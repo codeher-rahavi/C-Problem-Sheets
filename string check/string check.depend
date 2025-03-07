@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741331540 source:c:\c problem sheets\string check\main.c
+	<stdio.h>
+	<string.h>
+

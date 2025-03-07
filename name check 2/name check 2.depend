@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741338128 source:c:\c problem sheets\name check 2\main.c
+	<stdio.h>
+	<string.h>
+
