@@ -5,6 +5,9 @@ int main()
     char num[10];
     scanf("%s",num);
     int len=strlen(num);
+    char original[10];
+    strcpy(original,num);
+
     int i,j,n1=-1,n2=-1;
     for(i=len-1;i>0;i--)
     {
@@ -17,14 +20,8 @@ int main()
 
     if(n1==-1)
     {
-        for(i=0;i<len/2;i++)
-        {
-            char temp=num[i];
-            num[i]=num[len-i-1];
-            num[len-i-1]=num[i];
-        }
-        printf("%s\n",num);
-        return 0;
+       printf("no next permuations");
+       return 0;
 
     }
 
@@ -54,5 +51,7 @@ int main()
     }
 
     printf("%s",num);
+
+
     return 0;
 }

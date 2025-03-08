@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741416976 source:c:\c problem sheets\permutations\main.c
+	<stdio.h>
+	<string.h>
+
