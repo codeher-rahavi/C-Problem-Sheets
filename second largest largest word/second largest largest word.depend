@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741537202 source:c:\c problem sheets\second largest largest word\main.c
+	<stdio.h>
+	<string.h>
+

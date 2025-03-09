@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741531314 source:c:\c problem sheets\reversing first and the last words in a string\main.c
+	<stdio.h>
+	<string.h>
+
