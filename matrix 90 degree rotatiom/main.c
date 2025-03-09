@@ -11,7 +11,7 @@ int main()
     {
         for(j=0;j<num;j++)
         {
-            scanf(" %c", &a[i][j]);
+            scanf(" %c",&a[i][j]);
         }
     }
 
