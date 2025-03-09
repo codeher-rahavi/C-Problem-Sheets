@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741528973 source:c:\c problem sheets\index of the given word\main.c
+	<stdio.h>
+	<string.h>
+
